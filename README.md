@@ -5,9 +5,8 @@ alongside with the explanation from its docu.
 First column displays the position in resulting list.
 For example
 
-0  depth in parens.
-
-	 ====> 1 <====
+`0  depth in parens.  
+	 ====> 1 <====`
 
 might relate to a result of
 `(nth 0 (parse-partial-sexp (point-min) (point)))`
